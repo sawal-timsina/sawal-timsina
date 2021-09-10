@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://stackoverflow.com/users/6034294/sawal-timsina" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="7448955" height="40" width="40" /></a>
-<a href="https://www.facebook.com/sawal.timsina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="sawal.timsina" height="40" width="40" /></a>
+<a href="https://www.facebook.com/sawal.timsina/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="sawal.timsina" height="40" width="40" /></a>
 <a href="https://www.instagram.com/sawal_timsina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sawal_timsina" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/t-sawal/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="t-sawal" height="40" width="40" /></a>
 </p>
