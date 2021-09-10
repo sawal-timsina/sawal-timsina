@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">नमस्कार 🙏, I'm Sawal Timsina</h1>
 <h3 align="center">Software Engineer from Nepal 🇳🇵👋</h3>
 
-- 💬 Ask me about: **Go, PHP, Java, JavaScript, SQL**
+- 💬 Ask me about: **Go, Java, JavaScript, PHP, SQL**
 - 📫 How to reach me: **t.sawal231@gmail.com**
 
 <p align="left">
