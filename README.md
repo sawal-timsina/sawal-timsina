@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">नमस्कार 🙏, I'm Sawal Timsina</h1>
 <h3 align="center">Software Engineer from Nepal 🇳🇵👋</h3>
 
-- 💬 Ask me about: **Go, Java, JavaScript, PHP, SQL**
+- 💬 Ask me about: **Go, Java, JavaScript, PHP, SQL, Dart**
 - 📫 How to reach me: **t.sawal231@gmail.com**
 
 <p align="left">
@@ -51,5 +51,7 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
